@@ -1,4 +1,4 @@
 # hello-world
-Hello!  My name is David and I am just getting started out on GitHub!  I am a blank book ready to be filled with knowledge.
+Hello!  My name is David and I am a web developer and designer!
 
-I was born and raised in VA.  I went to Radford University, did not graduate, school was not for me at the time.  I then became a leasing agent for over a year and decided that customer service was not for me.  I have always had a love for computers and I'd rather deal with a computer all day than lease apartments.  I also DJ and produce music in my spare time.  I mostly mix/produce house and techno music but I do love trap and dubstep as well.  That should be good for meow.
+I was born and raised in VA.  I went to Radford University, did not graduate but got my IT certification from the University of Virginia.  I have been designing and developing websites for the past 4 years and have loved every minute of it.  HTML, CSS, JavaScript, React.js are just some of the tools of the trade I use.  I am also a DJ and producer and love to go on hikes and be outside as much as I can. 
